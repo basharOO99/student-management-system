@@ -1,15 +1,15 @@
-# Python bytecode
+# Ignore Python bytecode
 __pycache__/
 *.pyc
 
-# Virtual environment
+# Ignore virtual environment
 my_first_env/
 
-# Database files
+# Ignore database files
 *.db
 *.sqlite3
 
-# IDE/editor files
+# IDE / Editor files
 .vscode/
 .idea/
 
