@@ -1,4 +1,4 @@
-# Python Bytecode
+# Python bytecode
 __pycache__/
 *.pyc
 
@@ -9,6 +9,9 @@ my_first_env/
 *.db
 *.sqlite3
 
-# IDE / Editor files
+# IDE/editor files
 .vscode/
 .idea/
+
+# Logs
+*.log
